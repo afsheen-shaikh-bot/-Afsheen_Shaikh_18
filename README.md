@@ -46,7 +46,7 @@ An academic project designed to streamline operations in a kids' clothing store.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/afsheenshaikh)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/afsheen-shaikh18/)  
 - 📁 [GitHub](https://github.com/afsheenshaikh18)  
 - ✉️ afsheenshaikh182@gmail.com  
 
