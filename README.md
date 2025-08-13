@@ -1,56 +1,77 @@
+# 👋 Hi there, I'm Afsheen Shaikh  
 
-# 👋 Hi there, I'm Afsheen Shaikh
+🎓 MCA Graduate | 💻 QA Engineer | 🎨 Frontend Developer | ⚙️ Software Developer | 🚀 Tech Enthusiast | 🌱 Open to Opportunities  
 
-🎓 MCA Graduate | 💻 Aspiring QA Engineer & Frontend Developer | 🌱 Open to Opportunities
+---
 
-## 💡 About Me
+## 💡 About Me  
+I’m a tech enthusiast passionate about **building user-friendly applications**, **ensuring software quality**, and **delivering clean, efficient code**.  
+With hands-on experience from academic projects and internships, I specialize in **Frontend Development**, **Quality Assurance**, and **Web Application Development**.  
 
-I'm a recent MCA graduate with a strong interest in software quality assurance and web development. I enjoy working on user-centric projects and exploring testing tools that ensure clean, functional, and efficient code.  
+I’m actively seeking opportunities to **contribute, learn, and grow** in a collaborative environment where innovation meets quality. 🚀  
 
-During my academic journey and internships, I’ve had the opportunity to build real-world applications and gain hands-on experience with technologies like Selenium, PHP, and MongoDB. I'm now actively looking for a full-time opportunity where I can apply my skills, learn from experienced professionals, and grow as part of a collaborative team.
+---
 
+## 🧰 Technical Skills  
 
-## 🧰 Technical Skills
-
-- Languages: HTML, CSS, JavaScript, PHP, MySQL  
-- **Testing Tools:** Selenium, Postman, Manual Testing  
+- **Languages:** Python, Java (Basic), C++, SQL, Node.js, HTML, CSS, JavaScript, PHP  
+- **Frameworks & Tools:** React.js, Responsive Design, Browser Dev Tools, VS Code  
+- **Testing Tools:** Selenium WebDriver, Postman, Manual Testing  
 - **Databases:** MySQL, MongoDB  
 - **Version Control:** Git, GitHub  
-- **Other Tools:** VS Code, Responsive Design, Debugging, Browser Dev Tools  
+- **Cloud Platform:** AWS (Cloud Practitioner Certified)  
+- **Other:** UI/UX Fundamentals, Debugging, Documentation  
 
-## 🛠️ Projects
+---
 
-### 🌾 Agroculture – Marketplace for Agricultural Produce
-A web-based platform built during my internship to connect local farmers directly with buyers. It facilitates seamless product listings, inquiries, and user authentication.  
-**Tech Stack:** PHP, HTML, CSS, MongoDB  
-🔗 [View Repository](https://github.com/afsheenshaikh18/agroculture)
+## 🛠️ Projects  
 
+### 🌾 [Agroculture – Marketplace for Agricultural Produce](https://github.com/AfsheenShaikh/Agroculture)  
+🔹 **Description:** Web-based platform connecting farmers directly with buyers to improve agricultural supply chain efficiency.  
+🔹 **Tech Stack:** PHP, HTML, CSS, MongoDB  
+🔹 **Demo:** [View Project Video](https://drive.google.com/file/d/1kye7aRKOkOt1J-SsHaYlYYJW5Kk-lcq-/view)  
 
-### 👕 Clothing Store Management System
-An academic project designed to streamline operations in a kids' clothing store. It includes modules for managing inventory, users, orders, and admin functions.  
-**Tech Stack:** PHP, MySQL, JavaScript  
-🔗 [View Repository](https://github.com/afsheenshaikh18/clothing-store)
+---
 
+### 👕 [The Brand Mate – Kids' Clothing Store Management System](https://github.com/AfsheenShaikh/TheBrandMate)  
+🔹 **Description:** A web platform for managing a kids' clothing store, including inventory, orders, and admin functions.  
+🔹 **Tech Stack:** PHP, MySQL, JavaScript  
+🔹 **Demo:** [View Project Video](https://drive.google.com/file/d/1XmgqwQ1avMb7vZJfQ1hQNbZYygBYnqq6/view)  
 
-## 📜 Certifications
+---
 
-- 🧪 **Automation Testing with Selenium** – Infosys Springboard  
-- 🔌 **API Testing with Postman** – Infosys Springboard  
-- 📖 *(More in progress as I continue learning!)*
+### 📝 [Attendance Management System](https://github.com/AfsheenShaikh/AttendanceManagement)  
+🔹 **Description:** Digital platform for managing student attendance records efficiently.  
+🔹 **Tech Stack:** C, PHP, MySQL, HTML, CSS  
+🔹 **Demo:** [View Project Video](https://drive.google.com/file/d/1b4VlPqEw0du6VC6VyVRlQuxKwnqVbrQU/view?usp=drivesdk)  
 
+---
 
-## 📄 Resume
+## 📜 Certifications  
 
-📥 [Download My Resume](https://drive.google.com/your-resume-link-here)
+- 🖥 Hands-on Workshop on Web Development – React.Js (DLithe Consultancy Services Pvt Ltd)  
+- 🗄 SQL (Basic) – HackerRank Certification  
+- ☁ AWS Cloud Practitioner Essentials – AWS  
+- 📱 Android Fundamentals – Android Developers Course  
+- 💼 Software Engineering – Infosys Springboard  
+- 🖼 Digital Image Processing with Python  
+- 🗣 Introduction to Natural Language Processing – Great Learning  
+- 🧪 Software Testing – Infosys Springboard  
+- ⚙️ Automation Testing with Selenium – Infosys Springboard  
+- 🔌 API Testing with Postman – Infosys Springboard  
 
+---
 
-## 📫 Let's Connect
+## 📄 Resume  
+📥 [Download My Resume](https://github.com/afsheen-shaikh-bot/portfolio/raw/main/Afsheen_MCA_Resume_2025.pdf)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/afsheen-shaikh18/)  
-- 📁 [GitHub](https://github.com/afsheenshaikh18)  
-- ✉️ afsheenshaikh182@gmail.com  
+---
 
+## 📫 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/afsheen-shaikh18/)  
+📁 [GitHub](https://github.com/afsheen-shaikh-bot)  
+✉️ **afsheenshaikh182@gmail.com**  
 
-Thanks for stopping by! I’m always open to learning, collaborating, and exploring new opportunities. 🚀
+---
 
-# -Afsheen_Shaikh_18
+⭐ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
