@@ -29,21 +29,21 @@ I’m actively seeking opportunities to **contribute, learn, and grow** in a col
 ### 🌾 [Agroculture – Marketplace for Agricultural Produce](https://github.com/AfsheenShaikh/Agroculture)  
 🔹 **Description:** Web-based platform connecting farmers directly with buyers to improve agricultural supply chain efficiency.  
 🔹 **Tech Stack:** PHP, HTML, CSS, MongoDB  
-🔹 **Demo:** [View Project Video](https://drive.google.com/file/d/1kye7aRKOkOt1J-SsHaYlYYJW5Kk-lcq-/view)  
-
----
-
-### 👕 [The Brand Mate – Kids' Clothing Store Management System](https://github.com/AfsheenShaikh/TheBrandMate)  
-🔹 **Description:** A web platform for managing a kids' clothing store, including inventory, orders, and admin functions.  
-🔹 **Tech Stack:** PHP, MySQL, JavaScript  
-🔹 **Demo:** [View Project Video](https://drive.google.com/file/d/1XmgqwQ1avMb7vZJfQ1hQNbZYygBYnqq6/view)  
+🔹 **Details:** [View Project Files](https://drive.google.com/file/d/1kye7aRKOkOt1J-SsHaYlYYJW5Kk-lcq-/view)  
 
 ---
 
 ### 📝 [Attendance Management System](https://github.com/AfsheenShaikh/AttendanceManagement)  
 🔹 **Description:** Digital platform for managing student attendance records efficiently.  
 🔹 **Tech Stack:** C, PHP, MySQL, HTML, CSS  
-🔹 **Demo:** [View Project Video](https://drive.google.com/file/d/1b4VlPqEw0du6VC6VyVRlQuxKwnqVbrQU/view?usp=drivesdk)  
+🔹 **Details:** [View Project Files](https://drive.google.com/file/d/1b4VlPqEw0du6VC6VyVRlQuxKwnqVbrQU/view?usp=drivesdk)  
+
+---
+
+### 👕 [The Brand Mate – Kids' Clothing Store Management System](https://github.com/AfsheenShaikh/TheBrandMate)  
+🔹 **Description:** A web platform for managing a kids' clothing store, including inventory, orders, and admin functions.  
+🔹 **Tech Stack:** PHP, MySQL, JavaScript  
+🔹 **Details:** [View Project Files](https://drive.google.com/file/d/1XmgqwQ1avMb7vZJfQ1hQNbZYygBYnqq6/view)  
 
 ---
 
@@ -63,7 +63,7 @@ I’m actively seeking opportunities to **contribute, learn, and grow** in a col
 ---
 
 ## 📄 Resume  
-📥 [Download My Resume](https://github.com/afsheen-shaikh-bot/portfolio/raw/main/Afsheen_MCA_Resume_2025.pdf)  
+📥 [Download My Resume](https://drive.google.com/file/d/1j1-Q02rMSk2koWtNUovG7w6AEZE6f3Gs/view)  
 
 ---
 
